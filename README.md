@@ -5,6 +5,6 @@
 5 555
 6 666
 7 777
-8 eligible
+8 888
 9 fuck
 10 awful
