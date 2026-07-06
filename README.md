@@ -2,7 +2,7 @@
 2 fau
 3 fau
 4 fau
-5 wan
+5 fau
 6 wan
 7 wan
 8 wan
