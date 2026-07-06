@@ -1,4 +1,4 @@
-1 wan
+1 fau
 2 wan
 3 wan
 4 wan
