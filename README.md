@@ -7,4 +7,4 @@
 7 fau
 8 fau
 9 fau
-10 wan
+10 fau
