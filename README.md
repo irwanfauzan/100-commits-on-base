@@ -5,6 +5,6 @@
 5 fau
 6 fau
 7 fau
-8 wan
+8 fau
 9 wan
 10 wan
