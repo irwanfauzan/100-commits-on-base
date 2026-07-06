@@ -1,6 +1,6 @@
 1 fau
 2 fau
-3 wan
+3 fau
 4 wan
 5 wan
 6 wan
