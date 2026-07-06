@@ -1,5 +1,5 @@
 1 fau
-2 wan
+2 fau
 3 wan
 4 wan
 5 wan
