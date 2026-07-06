@@ -4,7 +4,7 @@
 4 fau
 5 fau
 6 fau
-7 wan
+7 fau
 8 wan
 9 wan
 10 wan
